@@ -1,0 +1,100 @@
+
+body {
+	font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;	
+    overflow-x: hidden;
+}
+
+
+.konten {
+	height: 300px;
+	width: 100%;
+	background-color: #f44336;
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%),
+	 0 2px 10px 0 rgb(0 0 0 / 12%);
+
+}
+
+.header {
+	text-align: center;
+	padding: 50px 0 0 0;
+	font-size: 20px;
+	color: #fff;
+	display: block;
+}
+
+
+h3{
+	text-align: center;
+	padding: 10px;
+}
+
+img	{
+	text-align: center;
+	width: 200px;
+	height:200px;
+	margin : 0 130px 0 130px;
+}
+
+.button  {
+ border: none;
+ font-size:24px!important;
+ font-weight: 900px;
+ background-color: #8d1007 !important;
+ padding: 8px 16px;
+ color: #fff;
+
+}
+
+.row {
+	margin: 18px auto;
+	display: block;
+	box-sizing: initial;
+	border: none;
+}
+
+p {
+	text-align: center;
+}
+
+.satu {
+	height: 480px;
+	width: 440px;
+	background-color: #F4EEE8;
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 
+	0 2px 10px 0 rgb(0 0 0 / 12%);
+	float: right;	
+	    box-sizing: inherit;
+}
+
+.dua{
+	height: 480px;
+	width: 440px;
+	background-color:#F4EEE8 ;
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 
+	0 2px 10px 0 rgb(0 0 0 / 12%);
+	position: absolute;
+	    box-sizing: inherit;
+}
+
+.tiga {
+	height: 480px;
+	width: 440px;
+	background-color:#F4EEE8 ;
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%),
+	 0 2px 10px 0 rgb(0 0 0 / 12%);
+	 margin: auto;
+	     box-sizing: inherit;
+}
+
+
+
+
+
+
+   
+
+
+
+
